@@ -1,10 +1,9 @@
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ Vovemdev offers a technology e-learning platform that receives contributions from individual beginner to advanced coding, the number one open source that full code contents are uploaded, download the source-code and contribute your knowledge be a lover of education wellness to share your ideas with the world.
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 The open source for developers individuals can contribute knowledge, looking doesn't count you can get involved.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 The open source e-learning is the foundation for web developers in HTML, CSS, JavaScript
 
-🍿 Fun facts - what does your team eat for breakfast?
+🍿 Open source for everyone
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🧙 It's Knowledge and Share
