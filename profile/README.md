@@ -12,12 +12,13 @@
 
 🧙 It's Knowledge and Share
 
-[](https://github.com/OgunniyiOwamamwen/FreeCodeCamp/blob/master/opencollective.png?raw=true)
+<img width="300" alt="Vovemdev OpenCollective" src="https://github.com/OgunniyiOwamamwen/FreeCodeCamp/blob/master/opencollective.png">
 
-[OpenCollective :](https://opencollective.com/vovemdev)
+[OpenCollective](https://opencollective.com/vovemdev)
 
-[](https://github.com/OgunniyiOwamamwen/FreeCodeCamp/blob/master/youtube.png?raw=true)
-[YouTube :](https://www.youtube.com/channel/UC1XdZt20TfuhGhppPwUfM7g)
+<img width="300" alt="Vovemdev OpenCollective" src="https://github.com/OgunniyiOwamamwen/FreeCodeCamp/blob/master/youtube.png">
+
+[YouTube](https://www.youtube.com/channel/UC1XdZt20TfuhGhppPwUfM7g)
 
 
 
